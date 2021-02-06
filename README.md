@@ -1,5 +1,5 @@
 # Project Description
-This is React Blog Page web application. It created with Reactjs, Hooks, React-Router(-v.5), JSON Server .\
+This is React Blog Page web application. It created with Reactjs, Hooks, React-Router(-v.5), JSON Server.
 
 # Getting Started 
 
